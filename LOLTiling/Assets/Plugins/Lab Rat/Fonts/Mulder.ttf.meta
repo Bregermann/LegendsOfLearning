@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 544387db5cb73204abac5dc75306a276
+timeCreated: 1486841911
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 192
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mulder handwriting
+  fontNames:
+  - Mulder handwriting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
